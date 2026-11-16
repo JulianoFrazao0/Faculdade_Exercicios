@@ -1,4 +1,4 @@
-package Lista_3;
+package Lista_6;
 //4. Contar pares. Ler uma matriz 2x3 (2 linhas e 3 colunas) de números inteiros e mostrar
 //quantos números pares foram digitados.
 //Dica: número par é aquele em que m[i][j] % 2 == 0.

@@ -1,4 +1,4 @@
-package Lista_3;
+package Lista_6;
 //3. Maior valor. Ler uma matriz 3x3 de números inteiros e mostrar o maior valor digitado.
 //Dica: comece com int maior = m[0][0] e compare com todos os outros.
 //Entrada: 4 7 1 9 2 6 3 8 5

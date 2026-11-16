@@ -1,4 +1,4 @@
-package Lista_3;
+package Lista_6;
 //2. Soma de todos. Ler uma matriz 3x3 de números inteiros e mostrar a soma de todos os
 //elementos.
 //Dica: crie int soma = 0 antes dos for e vá somando cada m[i][j].

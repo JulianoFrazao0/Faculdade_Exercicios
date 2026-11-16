@@ -2,7 +2,7 @@
 //array com lista entre chaves e imprimir a quantidade de
 //notas, a primeira nota e a última nota, obtendo o último
 //índice por meio de length.
-package Lista_1;
+package Lista_4;
 
 public class atv_1 {
     public static void main (String[] args){
