@@ -1,4 +1,8 @@
 package Lista_4;
+// Ler as notas de 10 alunos de uma turma. Contar quantos
+//foram aprovados com nota maior ou igual a 6, quantos
+//ficaram em recuperação com nota maior ou igual a 4 e
+//quantos foram reprovados abaixo disso.
 import java.util.Scanner;
 
 public class atv_8 {

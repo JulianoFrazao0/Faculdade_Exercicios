@@ -23,7 +23,6 @@ public class atv_3 {
                 }
             }
         }
-
         System.out.println("maior: " + maior);
     }
 }

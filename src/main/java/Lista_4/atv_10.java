@@ -1,6 +1,12 @@
 package Lista_4;
 import java.util.Scanner;
-
+//10. Caixa de loja. Ler a quantidade N de itens da compra. Se
+//N for menor que 1, imprimir mensagem de quantidade
+//inválida e encerrar. Caso contrário, ler o preço unitário e a
+//quantidade de cada item em dois arrays de tamanho N.
+//Imprimir o subtotal de cada item, o total da compra, um
+//desconto de 5 por cento quando o total passar de 200,00 e o
+//valor final a pagar, todos com duas casas.
 public class atv_10 {
     public static void main(String[] args) {
         Scanner ent = new Scanner(System.in);

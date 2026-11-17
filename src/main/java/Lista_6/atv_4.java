@@ -19,7 +19,6 @@ public class atv_4 {
                 }
             }
         }
-
         System.out.println(" pares: " + pares);
     }
 }

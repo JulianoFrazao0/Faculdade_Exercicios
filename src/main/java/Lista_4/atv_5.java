@@ -1,6 +1,9 @@
 package Lista_4;
 import java.util.Scanner;
-
+//Ler o preço de 5 produtos. Criar um segundo array com o
+//preço de cada produto com 10 por cento de desconto.
+//Imprimir, uma linha por produto, o preço original e o preço
+//com desconto.
 public class atv_5 {
     public static void main (String[] args) {
         Scanner ent = new Scanner(System.in);

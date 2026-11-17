@@ -1,4 +1,9 @@
 package Lista_4;
+//Os códigos dos produtos são {101, 205, 310, 420, 550} e
+//os preços, na mesma ordem, {4.50, 12.00, 7.90, 25.00,
+//3.20}. Ler um código e imprimir o preço do produto
+//correspondente. Se o código não existir, imprimir que o
+//produto não foi encontrado.
 import java.util.Scanner;
 
 public class atv_9 {

@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class atv_6 {
     public static void main(String[] args) {
         Scanner ent = new Scanner(System.in);
-
         System.out.println("digite o valor do emprestimo");
 
         double val = ent.nextDouble();
