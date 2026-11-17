@@ -38,7 +38,6 @@ public class atv_4 {
         for (int i = 0; i < v.length; i++) {
             System.out.print(v[i] + " ");
         }
-
         System.out.println();
     }
 
@@ -55,7 +54,6 @@ public class atv_4 {
         System.out.println("esta ordenado " + estaOrdenado(num));
 
         ordenar(num);
-
         System.out.println("depois de ordenar");
         exibir(num);
         System.out.println("esta ordenado " + estaOrdenado(num));
