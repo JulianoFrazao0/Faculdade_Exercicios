@@ -1,10 +1,10 @@
 package Lista_5;
 
-//Ordenação pelo mé
-// t
-// odo da
-// bolha. Ler 6 números
-// inteiros em um array. Criar o
+//Ordenação pelo méto
+// do
+// da b
+// olha. Ler
+// 6 números inteiros em um array. Criar o
 //procedimento ordenar(int[] v), que coloca o array em ordem crescente
 //comparando vizinhos e trocando quando estiverem fora de ordem, a função
 //boolean estaOrdenado(int[] v) e o procedimento exibir(int[] v). Imprimir o
@@ -31,7 +31,6 @@ public class atv_4 {
                 return false;
             }
         }
-
         return true;
     }
 
