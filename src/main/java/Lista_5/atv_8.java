@@ -7,7 +7,7 @@ package Lista_5;
 import java.util.Scanner;
 
 public class atv_8 {
-    public static String maiorPalavra(String[] palavras) {
+    public static String maiorpalavra(String[] palavras) {
         String maior = "";
         for (int i = 0; i < palavras.length; i++) {
             if (palavras[i].length() > maior.length()) {
@@ -17,7 +17,7 @@ public class atv_8 {
         return maior;
     }
 
-    public static void exibirPalavras(String[] palavras) {
+    public static void exibirpalavras(String[] palavras) {
         for (int i = 0; i < palavras.length; i++) {
             System.out.println((i + 1) + ". " + palavras[i]);
         }
